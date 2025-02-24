@@ -2,6 +2,6 @@
 
 Acutalmente estoy finalizando mis estudios en el grado de ingeniería informática.
 
-## 📊 Most Used Languages  
+## Most Used Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioParraL&layout=compact&langs_count=6&theme=radical)
