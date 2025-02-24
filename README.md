@@ -1,5 +1,3 @@
-## Most Used Languages  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioParraL&layout=compact&langs_count=6&theme=radical)
 
 ##  Languages and Tools  
